@@ -12,7 +12,7 @@ I'm a data scientist and mathematician passionate about using data and AI to tel
 - **Data Engineering Intern** at Melanin Meetups - building scalable data pipelines supporting user interactions through AWS.
 - **Analytics and Blog Director** at UCLA Data Resolution - leading a team of analysts to produce data-driven projects for 500+ members.
 - **Information Tech Analyst** at UCLA Digital Tech Solutions - monitoring network vulnerabilities to protect university data infrastructure.
-- **Treasurer** at UCLA Residential Life - managed and optimized a $3K budget, implementing data-driven tracking to improve financial efficiency.
+- **Treasurer** at UCLA Residential Life - managed a $3K budget, implementing data-driven tracking to improve financial efficiency.
   
 ---
 
