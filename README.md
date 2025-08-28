@@ -17,6 +17,42 @@ I'm a data scientist and mathematician passionate about using data and AI to tel
 
 
 
+## Tech Stack
+
+**Languages:** Python, SQL, R, C++, C#
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, TensorFlow, Beautiful Soup, Flask, PyTorch
+**Tools & Platforms:** Jupyter Notebook, Git, GitHub, MySQL, Excel, Tableau, AWS, Docker, VS Code, Git
+**Software:**  Microsoft Excel, PowerPoint, Outlook, Smart Suite, Atlassian Suite
+
+---
+
+## Featured Projects
+
+### Savills CRE Microtrend Analysis @UCLA DataFest 2025 | Python, R, MySQL
+Analyzed 190K+ lease records to identify real estate opportunities.  
+**Tech:** Python (Pandas), R (tidyr, dplyr,ggplot2), MySQL 
+[👀 View Winning Presentation]([https://your-slides-link.com](https://docs.google.com/presentation/d/1eQw2tjlzy1hjpsLT9ezepBq0wA89gF3xqgoSy04nH5A/edit?slide=id.g277a62897eb_1_7#slide=id.g277a62897eb_1_7)) 
+
+### [Maximizing Flight Demand Analysis]
+Analyzed flight booking data to identify trends and factors influencing demand, providing insights for strategic pricing and route planning.  
+**Tech:** Python, Pandas, Tableau, MySQL
+
+### [Predicting Pay Gaps in Ireland]
+Conducted statistical analysis on Irish wage data to identify and model factors contributing to pay disparities across industries and demographics.  
+**Tech:** R, ggplot2, Linear Regression, Hypothesis Testing
+
+
+
+---
+
+### Let’s Connect!
+Feel free to reach out if you want to chat about data, opportunities, or just connect!
+
+- **Email:** [Your Email Address]  
+- **LinkedIn:** [Full Link to your LinkedIn Profile]  
+- **GitHub:** [Your GitHub Profile Link, e.g., github.com/seangee9008]  
+
+---
 
 
 
