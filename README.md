@@ -29,16 +29,16 @@ I'm a data scientist and mathematician passionate about using data and AI to tel
 
 ## Featured Projects
 
-### [Savills CRE Microtrend Analysis @UCLA DataFest 2025]([https://github.com/your-username/savills-repo](https://docs.google.com/presentation/d/1l056vMq4C4Qm-jyaPpurwClj7Xsqmiuv7Bjy9yg4r6g/edit))
+### [Savills CRE Microtrend Analysis @UCLA DataFest 2025](https://docs.google.com/presentation/d/1l056vMq4C4Qm-jyaPpurwClj7Xsqmiuv7Bjy9yg4r6g/edit)
 Analyzed 190K+ lease records to identify real estate opportunities. Achieved runner-up out of 400+ participants.  
 **Tech:** Python (Pandas), R (tidyr, dplyr, ggplot2), MySQL  
 
 
-### [Maximizing Flight Demand Analysis](https://github.com/your-username/flight-repo)
+### [Maximizing Flight Demand Analysis]([https://github.com/your-username/flight-repo](https://github.com/seangee9008/Maximizing-Flight-Demand-Analysis))
 Analyzed flight booking data to identify trends and factors influencing demand, providing insights for strategic pricing and route planning.  
 **Tech:** Python, Pandas, Tableau, MySQL
 
-### [Predicting Pay Gaps in Ireland](https://github.com/your-username/paygap-repo)
+### [Predicting Pay Gaps in Ireland]([https://github.com/your-username/paygap-repo](https://github.com/seangee9008/Predicting-Pay-Gaps-in-Ireland])
 Conducted statistical analysis on Irish wage data to identify and model factors contributing to pay disparities across industries and demographics.  
 **Tech:** R, ggplot2, Linear Regression, Hypothesis Testing
 
@@ -52,6 +52,7 @@ Led a team of 5. Quantified Zara's 3.5x faster inventory turnover than H&M throu
 Developed a Random Forest model to forecast crime rates with 99.85% accuracy (R²), identifying key socioeconomic drivers from an analysis of 3K+ data points.  
 **Tech:** Python, Scikit-learn, Machine Learning  
 
+---
 
 ### Let’s Connect!
 Feel free to reach out if you want to chat about data, opportunities, or just connect!
