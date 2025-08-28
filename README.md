@@ -12,7 +12,7 @@ Currently leading UCLA's largest data science club and overseeing hands-on works
 
 - **Data Engineering Intern** at Melanin Meetups - building scalable data pipelines supporting user interactions through AWS
 - **Analytics and Blog Director of UCLA Data Resolution** -  leading a team of analysts to produce data-driven projects for 500+ members.
-- **Information Technologies Security Analyst** at UCLA Digital Technology Solutions - monitoring network vulnerabilities and implementing security protocols to protect university data infrastructure.
+- **Information Technologies Analyst** at UCLA Digital Tech Solutions - monitoring network vulnerabilities to protect university data infrastructure.
   
 ---
 
