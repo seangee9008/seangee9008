@@ -2,7 +2,7 @@
 
 
 Statistics, Mathematics, and Data Science @ UCLA | Machine Learning Developer  
-Bay Area → Los Angeles | zean20199@g.ucla.edu | [LinkedIn](https://linkedin.com/in/your-profile) | [Github](https://github.com/seangee9008)
+Bay Area | zean20199@g.ucla.edu | [LinkedIn](https://linkedin.com/in/your-profile) | [Github](https://github.com/seangee9008)
 
 ---
 ## About Me
