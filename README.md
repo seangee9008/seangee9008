@@ -2,7 +2,7 @@
 
 
 Statistics, Mathematics, and Data Science @ UCLA | Machine Learning Developer  
-Bay Area → Los Angeles | zean20199@g.ucla.edu | [LinkedIn](https://linkedin.com/in/your-profile)
+Bay Area → Los Angeles | zean20199@g.ucla.edu | [LinkedIn](https://linkedin.com/in/your-profile) | [Github](https://github.com/seangee9008)
 
 ---
 ## About Me
@@ -42,7 +42,7 @@ Analyzed flight booking data to identify trends and factors influencing demand, 
 Conducted statistical analysis on Irish wage data to identify and model factors contributing to pay disparities across industries and demographics.  
 **Tech:** R, ggplot2, Linear Regression, Hypothesis Testing
 
-### [Zara Product Chain Analysis](https://ucladatares.medium.com/unveiling-zaras-secret-to-success-ee4077cf9f03))
+### [Zara Product Chain Analysis](https://ucladatares.medium.com/unveiling-zaras-secret-to-success-ee4077cf9f03)
 
 Led a team of 5. Quantified Zara's 3.5x faster inventory turnover than H&M through analysis of 500+ products.  
 **Tech:** Python (Pandas), R (ggplot2), Data Analysis  
@@ -55,11 +55,11 @@ Developed a Random Forest model to forecast crime rates with 99.85% accuracy (R�
 ---
 
 ### Let’s Connect!
-Feel free to reach out if you want to chat about data, opportunities, or just connect!
+Feel free to reach out if you want to chat about data, business, or just connect!
 
-- **Email:** [Your Email Address]  
-- **LinkedIn:** [Full Link to your LinkedIn Profile]  
-- **GitHub:** [Your GitHub Profile Link, e.g., github.com/seangee9008]  
+- **Email:** zean20199@g.ucla.edu
+- **LinkedIn:** https://www.linkedin.com/in/sean-gee-682966274/  
+- **GitHub:** https://github.com/seangee9008
 
 ---
 
