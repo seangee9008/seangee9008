@@ -17,43 +17,41 @@ I'm a data scientist and mathematician passionate about using data and AI to tel
 
 
 
+
 ## Tech Stack
 
-**Languages:** Python, SQL, R, C++, C#
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, TensorFlow, Beautiful Soup, Flask, PyTorch
-**Tools & Platforms:** Jupyter Notebook, Git, GitHub, MySQL, Excel, Tableau, AWS, Docker, VS Code, Git
-**Software:**  Microsoft Excel, PowerPoint, Outlook, Smart Suite, Atlassian Suite
+**Languages:** Python, SQL, R, C++, C#  
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, TensorFlow, BeautifulSoup, Flask, PyTorch  
+**Tools & Platforms:** Jupyter Notebook, Git, GitHub, MySQL, Excel, Tableau, AWS, Docker, VS Code  
+**Software:** Microsoft Excel, PowerPoint, Outlook, Smart Suite, Atlassian Suite  
 
 ---
 
 ## Featured Projects
 
-### Savills CRE Microtrend Analysis @UCLA DataFest 2025 
-Analyzed 190K+ lease records to identify real estate opportunities.  
-**Tech:** Python (Pandas), R (tidyr, dplyr,ggplot2), MySQL 
-[👀 View Winning Presentation]([https://your-slides-link.com](https://docs.google.com/presentation/d/1eQw2tjlzy1hjpsLT9ezepBq0wA89gF3xqgoSy04nH5A/edit?slide=id.g277a62897eb_1_7#slide=id.g277a62897eb_1_7)) 
+### [Savills CRE Microtrend Analysis @UCLA DataFest 2025]([https://github.com/your-username/savills-repo](https://docs.google.com/presentation/d/1l056vMq4C4Qm-jyaPpurwClj7Xsqmiuv7Bjy9yg4r6g/edit))
+Analyzed 190K+ lease records to identify real estate opportunities. Achieved runner-up out of 400+ participants.  
+**Tech:** Python (Pandas), R (tidyr, dplyr, ggplot2), MySQL  
 
-### [Maximizing Flight Demand Analysis]
+
+### [Maximizing Flight Demand Analysis](https://github.com/your-username/flight-repo)
 Analyzed flight booking data to identify trends and factors influencing demand, providing insights for strategic pricing and route planning.  
 **Tech:** Python, Pandas, Tableau, MySQL
 
-### [Predicting Pay Gaps in Ireland]
+### [Predicting Pay Gaps in Ireland](https://github.com/your-username/paygap-repo)
 Conducted statistical analysis on Irish wage data to identify and model factors contributing to pay disparities across industries and demographics.  
 **Tech:** R, ggplot2, Linear Regression, Hypothesis Testing
 
-### Zara Product Chain Analysis 
-*Led a team of 5.* Quantified Zara's 3.5x faster inventory turnover than H&M through analysis of 500+ products.  
+### [Zara Product Chain Analysis]([https://github.com/your-username/zara-repo)](https://ucladatares.medium.com/unveiling-zaras-secret-to-success-scel877cf918)
+)
+Led a team of 5. Quantified Zara's 3.5x faster inventory turnover than H&M through analysis of 500+ products.  
 **Tech:** Python (Pandas), R (ggplot2), Data Analysis  
-[📄 Read the Analysis]([https://your-zara-article-link.com](https://ucladatares.medium.com/unveiling-zaras-secret-to-success-ee4077cf9f03))
 
+### [Predicting Global Crime Rates](https://docs.google.com/presentation/d/1l056vMq4C4Qm-jyaPpurwClj7Xsqmiuv7Bjy9yg4r6g/edit)
 
-### Predicting Global Crime Rates
-Developed a Random Forest model to forecast crime rates with 99.85% accuracy (R²), identifying key socioeconomic drivers from an analysis of 3K+ data points.
-**Tech:** Python, Scikit-learn, Machine Learning
-https://docs.google.com/presentation/d/1l056vMq4C4Qm-jyaPpurwClj7Xsqmiuv7Bjy9yg4r6g/edit?usp=sharing
+Developed a Random Forest model to forecast crime rates with 99.85% accuracy (R²), identifying key socioeconomic drivers from an analysis of 3K+ data points.  
+**Tech:** Python, Scikit-learn, Machine Learning  
 
-
----
 
 ### Let’s Connect!
 Feel free to reach out if you want to chat about data, opportunities, or just connect!
