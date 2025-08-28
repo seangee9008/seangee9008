@@ -34,15 +34,15 @@ Analyzed 190K+ lease records to identify real estate opportunities. Achieved run
 **Tech:** Python (Pandas), R (tidyr, dplyr, ggplot2), MySQL  
 
 
-### [Maximizing Flight Demand Analysis](https://github.com/your-username/flight-repo](https://github.com/seangee9008/Maximizing-Flight-Demand-Analysis)
+### [Maximizing Flight Demand Analysis](https://github.com/seangee9008/Maximizing-Flight-Demand-Analysis)
 Analyzed flight booking data to identify trends and factors influencing demand, providing insights for strategic pricing and route planning.  
 **Tech:** Python, Pandas, Tableau, MySQL
 
-### [Predicting Pay Gaps in Ireland](https://github.com/your-username/paygap-repo](https://github.com/seangee9008/Predicting-Pay-Gaps-in-Ireland)
+### [Predicting Pay Gaps in Ireland](https://github.com/seangee9008/Predicting-Pay-Gaps-in-Ireland)
 Conducted statistical analysis on Irish wage data to identify and model factors contributing to pay disparities across industries and demographics.  
 **Tech:** R, ggplot2, Linear Regression, Hypothesis Testing
 
-### [Zara Product Chain Analysis](https://github.com/your-username/zara-repo)](https://ucladatares.medium.com/unveiling-zaras-secret-to-success-scel877cf918)
+### [Zara Product Chain Analysis](https://ucladatares.medium.com/unveiling-zaras-secret-to-success-scel877cf918)
 
 Led a team of 5. Quantified Zara's 3.5x faster inventory turnover than H&M through analysis of 500+ products.  
 **Tech:** Python (Pandas), R (ggplot2), Data Analysis  
