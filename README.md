@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Sean Gee
 
-Statistics, Mathematics, and Data Science @ UCLA | Machine Learning Developer
-Bay Area -> Los Angeles | zean20199@g.ucla.edu | 
+
+Statistics, Mathematics, and Data Science @ UCLA | Machine Learning Developer  
+Bay Area → Los Angeles | zean20199@g.ucla.edu | [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
-
 ## About Me
 
 I'm a data scientist and mathematician passionate about using data and AI to tell stories and drive real-world business decision-making.    
@@ -17,7 +17,7 @@ Currently leading UCLA's largest data science club and overseeing hands-on works
 ---
 
 
-# Hi, I'm Sean Gee
+
 
 Statistics, Mathematics, and Data Science @ UCLA | Machine Learning Developer  
 Bay Area → Los Angeles | zean20199@g.ucla.edu | [LinkedIn](https://linkedin.com/in/your-profile)
