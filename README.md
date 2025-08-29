@@ -23,7 +23,7 @@ I'm a data scientist and mathematician passionate about using data and AI to tel
 
 **Languages:** Python, SQL, R, C++, C#  
 **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, TensorFlow, BeautifulSoup, Flask, PyTorch  
-**Tools & Platforms:** Jupyter Notebook, Git, GitHub, MySQL, Excel, Tableau, AWS, Docker, VS Code  
+**Tools & Platforms:** Jupyter Notebook, Git, GitHub, MySQL, Tableau, AWS, Docker, VS Code  
 **Software:** Microsoft Excel, PowerPoint, Outlook, Smart Suite, Atlassian Suite  
 
 ---
