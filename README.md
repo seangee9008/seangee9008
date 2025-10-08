@@ -44,7 +44,7 @@ Conducted statistical analysis on Irish wage data to identify and model factors 
 **Tech:** R, ggplot2, Linear Regression, Hypothesis Testing
 
 ### [The Impact of Emotional Priming and Glucose Intake on Reaction Time for Adults](https://docs.google.com/document/d/1E5NmkUKmmOKOo0rG-TyivSb_aWsSHUTtwKWT4Rr-720/edit?usp=sharing)
-Executed a high-powered (N=216), age-blocked experimental design, using a two-way ANOVA to identify that a 10% glucose solution significantly improved motor reaction times
+Executed a high-powered, age-blocked experimental design, using a two-way ANOVA to identify that a 10% glucose solution significantly improved motor reaction times
 **Tech:** R, Experimental Design, Two-Way ANOVA, Tukey HSD, G*Power
 
 ### [Zara Product Chain Analysis](https://ucladatares.medium.com/unveiling-zaras-secret-to-success-ee4077cf9f03)
