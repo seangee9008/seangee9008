@@ -43,7 +43,7 @@ Analyzed flight booking data to identify trends and factors influencing demand, 
 Conducted statistical analysis on Irish wage data to identify and model factors contributing to pay disparities across industries and demographics.  
 **Tech:** R, ggplot2, Linear Regression, Hypothesis Testing
 
-### [The Impact of Emotional Priming and Glucose Intake on Reaction Time for Adults](https://jumpshare.com/s/Pr7uiU689TOtjoK4fD0M)
+### [The Impact of Emotional Priming and Glucose Intake on Reaction Time for Adults](https://drive.google.com/file/d/1yvz41Sqyrj_1-1uP1WuXohkNM8aItiHr/view?usp=sharing)
 Executed a high-powered, age-blocked experimental design, using a two-way ANOVA to identify that a 10% glucose solution significantly improved motor reaction times
 **Tech:** R, Experimental Design, Two-Way ANOVA, Tukey HSD, G*Power
 
@@ -52,7 +52,7 @@ Executed a high-powered, age-blocked experimental design, using a two-way ANOVA 
 Led a team of 5. Quantified Zara's 3.5x faster inventory turnover than H&M through analysis of 500+ products.  
 **Tech:** Python (Pandas), R (ggplot2), Data Analysis  
 
-### [Predicting Global Crime Rates](https://jumpshare.com/s/Lt70hg6iaklZY71vj3Gr)
+### [Predicting Global Crime Rates](https://drive.google.com/file/d/1ELeAuAz2pM6eQRyRTxmm_439vAMVAURa/view?usp=sharing)
 
 Developed a Random Forest model to forecast crime rates with 99.85% accuracy (R²), identifying key socioeconomic drivers from an analysis of 3K+ data points.  
 **Tech:** Python, Scikit-learn, Machine Learning  
