@@ -19,11 +19,11 @@ I'm a data engineer and statistician passionate about building the infrastructur
 ---
 
 ## Tech Stack
-**Languages:** Python, SQL, R, C++, C#
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, TensorFlow, BeautifulSoup, Flask, PyTorch
-**Cloud & AI Infra:** AWS (Lambda, S3, DynamoDB, API Gateway, SageMaker, Bedrock), MCP, RAG, Multi-Agent Systems
-**Tools & Platforms:** Jupyter Notebook, Git, GitHub, MySQL, Tableau, Power BI, Docker, Kubernetes, Postman, Datadog, VS Code
-**Software:** Microsoft Excel, PowerPoint, Outlook, Smart Suite, Atlassian Suite (Jira, Confluence)
+- **Languages:** Python, SQL, R, C++, C#
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, TensorFlow, BeautifulSoup, Flask, PyTorch
+- **Cloud & AI Infra:** AWS (Lambda, S3, DynamoDB, API Gateway, SageMaker, Bedrock), MCP, RAG, Multi-Agent Systems
+- **Tools & Platforms:** Jupyter Notebook, Git, GitHub, MySQL, Tableau, Power BI, Docker, Kubernetes, Postman, Datadog, VS Code
+- **Software:** Microsoft Excel, PowerPoint, Outlook, Smart Suite, Atlassian Suite (Jira, Confluence)
 
 ---
 
